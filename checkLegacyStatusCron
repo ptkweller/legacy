@@ -1,0 +1,4 @@
+
+# Check Legacy Status
+
+*/10 * * * * ec2-user /data/legacy/checkLegacyStatus.sh
